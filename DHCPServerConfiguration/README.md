@@ -1,0 +1,2 @@
+การจำลองการกำหนดค่า DHCP Server (Dynamic Host Configuration Protocol) บน Cisco Router ผ่านโปรแกรม Cisco Packet Tracer เพื่อแจกจ่าย IPv4 Address, Subnet Mask, Default Gateway และ DNS Server ให้กับอุปกรณ์ภายในเครือข่ายโดยอัตโนมัติ  
+เครือข่ายถูกแบ่งออกเป็น 3 VLAN ได้แก่ IT, HR และ Guest โดยใช้ Router-on-a-Stick สำหรับเชื่อมต่อเครือข่ายระหว่าง VLAN และใช้ Router R1 เป็น DHCP Server สำหรับแต่ละเครือข่าย
