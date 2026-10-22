@@ -3,4 +3,5 @@
 01  LAN AND IPv4 Configuration  
 02	VLAN Configuration   
 03	VLAN Trunking AND Inter-VLAN Routing  
-04  DHCP Server Configuration
+04  DHCP Server Configuration  
+05  Static AND Default Routing
